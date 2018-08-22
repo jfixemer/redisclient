@@ -1,10 +1,12 @@
 redisclient
 ===========
 
-Build master status: [![Build travis status](https://travis-ci.org/jfixemer/redisclient.svg?branch=master)](https://travis-ci.org/jfixemer/redisclient)
+https://travis-ci.com/jfixemer/redisclient
+
+Build master status: [![Build travis status](https://travis-ci.com/jfixemer/redisclient?branch=master)](https://travis-ci.com/jfixemer/redisclient)
 [![Build appveyor status](https://ci.appveyor.com/api/projects/status/github/jfixemer/redisclient?branch=master)](https://ci.appveyor.com/project/jfixemer/redisclient/branch/master)
 
-Build develop status: [![Build travis status](https://travis-ci.org/jfixemer/redisclient.svg?branch=develop)](https://travis-ci.org/jfixemer/redisclient)
+Build develop status: [![Build travis status](https://travis-ci.com/jfixemer/redisclient?branch=develop)](https://travis-ci.com/jfixemer/redisclient)
 [![Build appveyor status](https://ci.appveyor.com/api/projects/status/github/jfixemer/redisclient?branch=develop)](https://ci.appveyor.com/project/jfixemer/redisclient/branch/develop)
 
 Current version: 1.0.1.
