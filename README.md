@@ -1,8 +1,6 @@
 redisclient
 ===========
 
-https://travis-ci.com/jfixemer/redisclient
-
 Build master status: [![Build Status](https://travis-ci.com/jfixemer/redisclient.svg?branch=master)](https://travis-ci.com/jfixemer/redisclient)
 [![Build appveyor status](https://ci.appveyor.com/api/projects/status/github/jfixemer/redisclient?branch=master)](https://ci.appveyor.com/project/jfixemer/redisclient/branch/master)
 
