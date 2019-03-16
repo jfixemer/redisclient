@@ -11,8 +11,11 @@ set(boost_components system)
 if (NOT RedisClientInstall)
   set(boost_components ${boost_components}
                        program_options
-                       unit_test_framework
                        date_time)
+endif()
+
+if (BUILD_TEST)
+    set(boost_components ${boost_components} unit_test_framework)
 endif()
 
 find_package(Boost
